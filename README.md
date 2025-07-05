@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Protagonist888
-- 👀 I’m interested in ... Julia, optimization, blockchain
-- 🌱 I’m currently learning ... data science, ML, blockchain, optimization, Julia, OpenAI
+- 👀 I’m interested in ... Julia, optimization, blockchain, and decision making
+- 🌱 I’m currently learning ... ML/AI
 - 💞️ I’m looking to collaborate on ...projects related to any of the above
 - 📫 How to reach me ...
 
